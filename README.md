@@ -4,7 +4,7 @@ API REST para gerenciar um catálogo de lapiseiras, desenvolvida com Node.js, Ex
 
 O projeto foi pensado como a base de dados de uma futura loja online de lapiseiras, a Lapisari.
 
-Deploy: https://SEU-LINK.onrender.com
+Deploy: https://lapisari-banconaorelacional-1.onrender.com
 
 🛠️ Tecnologias
 Node.js: ambiente de execução JavaScript
